@@ -5,6 +5,7 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header&text=welcome%20to%20my%20github&fontSize=30&animation=fadeIn&fontColor=F3F4F4&stroke=000000&strokeWidth=1" />
 </p>
+
 ---
 
 <h2 align="center">ABOUT ME</h2>
