@@ -3,7 +3,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header&text=WELCOME%20TO%20MY%20GALAXY&fontSize=30&animation=fadeIn" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=header&text=welcome%20to%20my%20github&fontSize=30&animation=fadeIn&fontColor=F3F4F4&stroke=000000&strokeWidth=1" />
 </p>
 ---
 
@@ -87,4 +87,8 @@
 
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=ducnhat24&theme=react-dark&hide_border=true&area=true" width="100%" alt="Activity Graph" />
 
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=000080&height=120&section=footer&text=thanks%20for%20visiting&fontSize=24&fontColor=F3F4F4&stroke=000000&strokeWidth=1"/>
 </p>
